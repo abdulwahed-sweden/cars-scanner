@@ -1,0 +1,11 @@
+[package]
+name = "cars-scanner"
+version = "0.1.0"
+edition = "2021"
+authors = ["AbdulWahed"]
+description = "A command line tool for diagnosing car error codes"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+csv = "1.2"
+clap = { version = "4.3", features = ["derive"] }
