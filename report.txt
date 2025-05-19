@@ -1,0 +1,18 @@
+Error Code: P0300
+Description: Random/Multiple Cylinder Misfire Detected
+Severity: High
+System: Engine
+
+Possible Causes:
+  - Spark plug issues
+  - Ignition coil problems
+  - Fuel delivery issues
+  - Vacuum leaks
+  - Low compression
+
+Recommended Actions:
+  - Check spark plugs and wires
+  - Test ignition coils
+  - Inspect fuel injectors
+  - Check for vacuum leaks
+  - Perform compression test
